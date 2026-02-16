@@ -1,16 +1,23 @@
+# Python virtual environment
+venv/
+.env
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-.env
-venv/
-.env/
-
-*.csv
-
+# Jupyter
 .ipynb_checkpoints/
 
-.DS_Storedata/*.csv
-data/raw/opensky_asia.csv
-opensky_asia.csv
+# Data files (local / large / generated)
+data/
+*.csv
+*.parquet
+*.zip
+
+# Logs
+*.log
+
+# OS / editor
