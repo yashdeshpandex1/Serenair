@@ -12,3 +12,5 @@ venv/
 .ipynb_checkpoints/
 
 .DS_Storedata/*.csv
+data/raw/opensky_asia.csv
+opensky_asia.csv
