@@ -8,8 +8,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Jupyter
-.ipynb_checkpoints/
 
 # Data files (local / large / generated)
 data/
